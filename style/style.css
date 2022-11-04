@@ -1,0 +1,91 @@
+.header1{
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg);
+    padding-top: 100px;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.header-all {
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 0;
+    height: 80px;
+    width:100%;
+    
+    
+}
+.btn-pink{
+    background-color: #ba71da !important;
+}
+.hero{
+    width: 100%;
+}
+.center h1{
+    text-align: center;
+    color: azure;
+    font-size:50px;
+    
+}
+.center span{
+    display:flex;
+    
+    color: azure;
+    font-size:50px;
+}
+.menu{
+    cursor: pointer;
+}
+.center h5{
+    text-align: center;
+    color:white;
+    margin-top: 30px;
+}
+.nav{
+    padding: 0 50px;
+
+}
+.button1 button{
+    border-radius: 30px;
+    color:white;
+}
+
+.box{
+    width: 20%;
+   margin: auto;
+background-color: none;
+margin:25px auto;
+    
+}
+.box option select {
+    border-radius: 80px;
+}
+.box select{
+    width: 100%;
+}
+.img2{
+    text-align: center;
+    margin-top:200px;
+    color:white;
+    display: flex;
+ justify-content: space-evenly;
+ padding: 0px;
+
+ width: 30%;
+ margin: auto
+ 
+ 
+}
+
+
+.picture1 img{
+    width: 50%;
+}
+.picture2 img{
+    width: 50%;
+}
+.picture3 img{
+    width: 50%;
+}
+.picture4 img{
+    width: 50%;
+}
